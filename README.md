@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+* 
+
+
+<a href="https://codeclimate.com/github/oscaresende/mata62"><img src="https://codeclimate.com/github/oscaresende/mata62/badges/gpa.svg" /></a>
+
+[![Test Coverage](https://codeclimate.com/github/oscaresende/mata62/badges/coverage.svg)](https://codeclimate.com/github/oscaresende/mata62/coverage)
